@@ -113,7 +113,7 @@ ul {
       .side-bar ul li a {
         line-height: 48px;
         display: block;
-        color: #3d3c40;
+        color: #513e2b;
         font-weight: 300;
         font-size: 16px;
         text-decoration: none; }
@@ -154,5 +154,5 @@ ul {
       display: block; }
       /* line 113, ../sass/admin/_sidebar.sass */
       .side-bar .sub-nav li a, .side-bar .sub-nav li a:hover {
-        color: #3d3c40;
+        color: #513e2b;
         line-height: 35px; }
