@@ -16,4 +16,9 @@ Route::get('/', function() {
 	return "All Sites";
 });
 
+// Route::get('/admin', function() {
+// 	return "Admin";
+// });
+Route::controller('admin','AdminController');
+
 Route::resource('users', 'UserController');
